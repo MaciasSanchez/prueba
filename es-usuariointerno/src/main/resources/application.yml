@@ -1,9 +1,0 @@
-server:
-  port: 8072
-
-spring:
-  data:
-    mongodb:
-      database: usuarios
-      host: localhost
-      port: 27017
